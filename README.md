@@ -6,9 +6,9 @@ This is a tribute page. Original challenge comes from freecodecamp.com
 
 ## Technologies Used
 
-1.BootStrap
-2.CSS
-3.HTML5
+1. BootStrap
+2. CSS
+3. HTML5
 
 ## User Stories I needed to implement:
 
