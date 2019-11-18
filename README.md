@@ -4,13 +4,13 @@ This is a tribute page. Original challenge comes from freecodecamp.com
 ![](images/Joe_Rogan.gif)
 
 
-##Technologies Used
+## Technologies Used
 
 1.BootStrap
 2.CSS
 3.HTML5
 
-##User Stories I needed to create:
+## User Stories I needed to implement:
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
